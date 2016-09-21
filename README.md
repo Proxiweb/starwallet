@@ -10,4 +10,4 @@
 * multiple wallets support
 * Access to test and public network with wallets & contacts ( advanced mode )
 
-It builds on iOS but version of Xcode (4.2) installed on the mac I had access to, prevent me to submit the app. Searching a way to fix this.
+It builds on iOS but the version of Xcode (4.2) installed on the mac I had access to, prevent me to submit the app. Searching a way to fix this.
