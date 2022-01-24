@@ -5,6 +5,8 @@ import App from './App';
 import configureStore from './configureStore';
 
 const setup = () => {
+    console.log('setup');
+    console.log('setup2');
     class Root extends Component {
 
         constructor() {
