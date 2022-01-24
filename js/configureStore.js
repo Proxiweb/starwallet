@@ -7,6 +7,7 @@ import sagas from './sagas';
 
 export default function configureStore(onCompletion) {
     console.log('f1 master');
+    console.log('f2 master');
     // const engine = createEngine('local-storage');
     const sagaMiddleware = createSagaMiddleware();
     // const storageMiddleware = storage.createMiddleware(engine);
