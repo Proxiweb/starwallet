@@ -6,6 +6,7 @@ import reducer from './reducers';
 import sagas from './sagas';
 
 export default function configureStore(onCompletion) {
+    console.log('f1 master');
     // const engine = createEngine('local-storage');
     const sagaMiddleware = createSagaMiddleware();
     // const storageMiddleware = storage.createMiddleware(engine);
